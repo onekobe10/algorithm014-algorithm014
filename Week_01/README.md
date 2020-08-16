@@ -17,6 +17,7 @@
 
 #### 4. 脑图 和 GitHub 地址
 1. https://www.processon.com/mindmap/5f33d4060791291293547cf2
+2. https://github.com/onekobe10/rules/tree/master/src/main/java/com/gankki/demo/algorithm
 
 #### 5. 做的不好的地方，需要改正
 1. 读题不够深入，不能理解题目意思
